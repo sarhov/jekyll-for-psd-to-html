@@ -1,0 +1,1930 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"margin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"main",
+				"main_page_items"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"image",
+				"imageblock"
+			],
+			[
+				"filter",
+				"filter	.filter()"
+			],
+			[
+				"filtr-blok",
+				"filtr-block__line"
+			],
+			[
+				"offs",
+				"offset	.offset()"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"of",
+				"offset	.offset()"
+			],
+			[
+				"price",
+				"pricerange"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"span",
+				"stopPropagation"
+			],
+			[
+				"bre",
+				"break-word"
+			],
+			[
+				"handle",
+				"handlerprice"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"price-",
+				"price-range-input"
+			],
+			[
+				"handPrice",
+				"handPriceMin"
+			],
+			[
+				"ready",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"base-",
+				"base-border-color"
+			],
+			[
+				"re",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"chec",
+				"checked"
+			],
+			[
+				"remove",
+				"removeAttr	.removeAttr()"
+			],
+			[
+				"pare",
+				"parents	.parents()"
+			],
+			[
+				"prop",
+				"prop	.prop() - single"
+			],
+			[
+				"check",
+				"checkLabel"
+			],
+			[
+				"che",
+				"checkLabel"
+			],
+			[
+				"option",
+				"optionValue"
+			],
+			[
+				"items",
+				"itemsText"
+			],
+			[
+				"ap",
+				"append	.append()"
+			],
+			[
+				"remov",
+				"removeClass	.removeClass()"
+			],
+			[
+				"togl",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"js",
+				"jsSizeTablePopup"
+			],
+			[
+				"jsSi",
+				"jsSizeTablePopup"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"remve",
+				"removeClass	.removeClass()"
+			],
+			[
+				"togg",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"jsFast",
+				"jsFastOrderPopup"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"tab-con",
+				"tab-content__item"
+			],
+			[
+				"firs",
+				"first"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"is",
+				"is	.is()"
+			],
+			[
+				"app",
+				"appendTo	.appendTo()"
+			],
+			[
+				"appen",
+				"append"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"eca",
+				"each	.each()"
+			],
+			[
+				"tov",
+				"tov-e	text-overflow: ellipsis;"
+			],
+			[
+				"ti",
+				"ti--	text-indent: -9999px;"
+			],
+			[
+				"review",
+				"reviewPagination"
+			],
+			[
+				"aja",
+				"ajaxstart	$.ajaxStart()"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"slide",
+				"slideUp	.slideUp()"
+			],
+			[
+				"backgorund",
+				"background-color"
+			],
+			[
+				"item",
+				"itemTPrice"
+			],
+			[
+				"itemT",
+				"itemTitle"
+			],
+			[
+				"fl",
+				"flyToCart"
+			],
+			[
+				"hide",
+				"hide_preloader"
+			],
+			[
+				"carour",
+				"carouFredSel"
+			],
+			[
+				"nth",
+				"nth-child"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"the",
+				"thecarousel"
+			],
+			[
+				"si",
+				"siblings	.siblings()"
+			],
+			[
+				"remvoe",
+				"removeClass	.removeClass"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"Se",
+				"SELECTVALUE"
+			],
+			[
+				"sele",
+				"SELECT"
+			],
+			[
+				"SELE",
+				"SELECT"
+			],
+			[
+				"se",
+				"SELECT"
+			],
+			[
+				"th",
+				"theselect"
+			],
+			[
+				"myi",
+				"myfiltr"
+			],
+			[
+				"cu",
+				"customSelect"
+			],
+			[
+				"to",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"sub",
+				"submit	submit"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"optio",
+				"optionValue"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"mysl",
+				"myselect__current"
+			],
+			[
+				"fade",
+				"fadeToggle	.fadeToggle()"
+			],
+			[
+				"my",
+				"myfiltrvalue"
+			],
+			[
+				"myfiltr",
+				"myfiltrvalue"
+			],
+			[
+				"html",
+				"html	.html"
+			],
+			[
+				"ea",
+				"each	.each()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 113,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"jek",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"je",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"p",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"time",
+				"Jekyll: Insert current datetime"
+			],
+			[
+				"pack",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"liq",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"liquid",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"liqui",
+				"Set Syntax: HTML Liquid"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"fte",
+				"Fetch: Manage"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"inset",
+				"Gist: Insert Gist"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"inse",
+				"Gist: Insert Gist"
+			],
+			[
+				"reo",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"REI",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jel",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"jeky",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"scss",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inser",
+				"Gist: Insert Gist"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"quic",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"add .",
+				"Git: Add..."
+			],
+			[
+				"ini",
+				"Git: Init"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"quik",
+				"Git: Quick Commit"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML (Jekyll)"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"open",
+				"Gist: Open Gist"
+			],
+			[
+				"rie",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"init",
+				"Git: Init"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"scs",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"gbrn",
+				"Git: Change Branch"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"ope",
+				"Gist: Open Gist"
+			],
+			[
+				"ins",
+				"Gist: Insert Gist"
+			],
+			[
+				"uqi",
+				"Permute Lines: Unique"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"all",
+				"File: Save All"
+			],
+			[
+				"ch",
+				"Git: Change Branch"
+			],
+			[
+				"change",
+				"Git: Change Branch"
+			],
+			[
+				"comi",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"git br",
+				"Git: Change Branch"
+			],
+			[
+				"remvoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"chang",
+				"Git: Change Branch"
+			],
+			[
+				"in",
+				"Gist: Insert Gist"
+			],
+			[
+				"renam",
+				"Gist: Rename File"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"chnage",
+				"Git: Change Branch"
+			],
+			[
+				"mer",
+				"Git: Merge Branch"
+			],
+			[
+				"quci",
+				"Git: Quick Commit"
+			],
+			[
+				"merge",
+				"Git: Merge Branch"
+			],
+			[
+				"chna",
+				"Git: Change Branch"
+			],
+			[
+				"brna",
+				"Git: Change Branch"
+			],
+			[
+				"git che",
+				"Git: Change Branch"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"diff",
+				"Set Syntax: Diff"
+			],
+			[
+				"des",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"origami",
+				"Origami: Create Pane Below"
+			],
+			[
+				"unzo",
+				"Origami: Unzoom Current Pane"
+			],
+			[
+				"orig",
+				"Origami: Zoom Current Pane"
+			],
+			[
+				"ori",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"golden",
+				"Golden Ratio"
+			],
+			[
+				"golde",
+				"Golden Ratio: Toggle Auto Resize"
+			],
+			[
+				"gr",
+				"Golden Ratio"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insert",
+				"Gist: Insert Gist"
+			],
+			[
+				"gui",
+				"Git: Document Selection"
+			],
+			[
+				"reflec",
+				"Emmet: Reflect CSS Value"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"lin",
+				"SublimeLinter: Previous Error"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"op",
+				"Gist: Open Gist"
+			],
+			[
+				"opne",
+				"Gist: Open Gist"
+			],
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"reit",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reio",
+				"Emmet: Reload Extensions"
+			],
+			[
+				"psuh",
+				"Git: Push"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"comit",
+				"Git: Commit"
+			],
+			[
+				"opn",
+				"Gist: Open Gist"
+			],
+			[
+				"repl",
+				"SublimeREPL: Shell"
+			],
+			[
+				"jekl",
+				"Jekyll: New draft"
+			],
+			[
+				"del",
+				"Gist: Delete Gist"
+			],
+			[
+				"repl she",
+				"SublimeREPL: Shell"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"dele",
+				"Gist: Delete Gist"
+			],
+			[
+				"repl shel",
+				"SublimeREPL: Shell"
+			],
+			[
+				"repl powe",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"power",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"repl po",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"repl rub",
+				"SublimeREPL: Ruby"
+			],
+			[
+				"ter",
+				"Preferences: Terminal Settings – Default"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"upda",
+				"Gist: Update File"
+			],
+			[
+				"ermove",
+				"Package Control: Remove Package"
+			],
+			[
+				"com",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"comm-",
+				"Snippet: Comment - Subsection comment"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git comi",
+				"Git: Commit"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git comit",
+				"Git: Commit"
+			],
+			[
+				"pusuh",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"cmit",
+				"Git: Commit"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"git st",
+				"Git: Status"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			" git config --global push.default simple",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/sarhov/Dropbox/My_projects/compass_jekyll"
+	],
+	"file_history":
+	[
+		"/C/Users/sarhov/Desktop/demo.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/index.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/services.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/css/app.css",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/autopark.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_config.yml",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/steps.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/skills.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/prices.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/sass/_settings.scss",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/sass/style.scss",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_prices/price3.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_services/service5.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_services/service4.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/guarantees.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_prices/price1.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_prices/price2.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_prices/price4.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_prices/price5.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_prices/price6.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_services/service3.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_services/service2.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_services/service1.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/icons.svg",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/reviews.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_layouts/page.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/news.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/articles.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_data/navigation.yml",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/top-bar.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/pagination.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/news/index.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_posts/2014-01-15-article-three.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_posts/2014-01-15-article-two.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_posts/2014-01-14-article-one.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/news/page2/index.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_posts/2014-01-14-article-one - Copy.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/css/style.css",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/css/style.css",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_guarantees/guarante2.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/about-us.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_guarantees/guarante1.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_autopark/item1.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_autopark/item6.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_autopark/item5.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_autopark/item4.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_autopark/item3.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_layouts/layout.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_autopark/item2.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/autopark/item1.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_collections/autopark/item1.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/collections/autopark/item1.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/about-command.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/breadcrumbs.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/contact.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/config.rb",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/browserconfig.xml",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/.sass-cache/198a126e2332c5b8bb1b8605210992eafc175578/_flex-video.scssc",
+		"/C/Users/sarhov/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/.sass-cache/198a126e2332c5b8bb1b8605210992eafc175578/_inline-lists.scssc",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/contact.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/sass/.subl402.tmp",
+		"/C/Users/sarhov/Desktop/test/_config.yml",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/browserconfig.xml.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/browserconfig.xml",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/img/favicons/browserconfig.xml",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/shipping-direction.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/slider.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/reviews-corousel.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/header.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_includes/footer.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/sass/app.scss",
+		"/C/Users/sarhov/Dropbox/Projects/shopify_metafields/config.yml",
+		"/C/Users/sarhov/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/C/Users/sarhov/Dropbox/My_projects/shopify.center/themes/first-theme/config.yml",
+		"/C/Users/sarhov/Desktop/style.css",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/sass/components/_type.scss",
+		"/C/Users/sarhov/Desktop/np_groups.json",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/sass/components/_type.scss",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/.sass-cache/3a080b39c7e61431a60b7e68a943a6d9b61ea2e5/_type.scssc",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/.sass-cache/198a126e2332c5b8bb1b8605210992eafc175578/_type.scssc",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/.sass-cache/198a126e2332c5b8bb1b8605210992eafc175578/_tables.scssc",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/scss/app.scss",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/config.rb",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/bower_components/foundation/.bower.json",
+		"/C/Users/sarhov/Desktop/foundation_install/hhh/scss/app.scss",
+		"/C/Users/sarhov/Desktop/foundation_install/hhh/index.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/js/app.js",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/_site/sass/_settings.scss",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/Gemfile.lock",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/Gemfile",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/bower_components/foundation/scss/foundation.scss",
+		"/C/Users/sarhov/Desktop/foundation_install/hhh/bower_components/foundation/.bower.json",
+		"/C/Users/sarhov/Desktop/foundation-compass-template-master/index.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/bower_components/foundation/scss/foundation/_settings.scss",
+		"/C/Users/sarhov/Dropbox/Projects/testik/.gitignore",
+		"/C/Users/sarhov/Dropbox/Projects/MY_PROJECT/index.html",
+		"/C/Users/sarhov/Dropbox/Projects/np_groups/.gitignore",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/snippets/sidebar_category-models.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/config/settings.html",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/media/theme.js",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/.sass-cache/7e111264a3d48a33328a525e1bbbad142b91ea3a/_typography.scssc",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/media/style.css.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/snippets/main_page_block_one.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/snippets/main_page_block_three.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/snippets/main_page_block_two.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/templates/index.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/snippets/header.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/templates/layouts.checkout.liquid",
+		"/C/Users/sarhov/Dropbox/Projects/autopark_booster-in/templates/layouts.layout.liquid",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_site/css/main.css",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_config.yml",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-12-11-post-example12.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-12-04-post-example4.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-12-03-post-example-2.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-30-kseniya-sobchak-vihsla-zamuzh.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-11-29-kseniya-sobchak-vihsla-zamuzh.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-10-30-post-example.markdown",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/icons.svg",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_sass/_base.scss",
+		"/C/Users/sarhov/Desktop/boilerplate.html",
+		"/C/Users/sarhov/Desktop/examples/sidebar-hero.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/css/main.scss",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/header.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/footer.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/index.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_includes/article.html",
+		"/C/Users/sarhov/Dropbox/My_projects/youtubevideo/website/_posts/2014-12-30-kseniya-sobchak-vihsla-zamuzh.markdown"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"C:\\Users\\sarhov\\Dropbox\\Projects\\odetyobuty",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"value",
+			"value1",
+			"2px",
+			"b-skills__text",
+			"steps__description",
+			"\">\n",
+			"small-2",
+			"small-4",
+			"steps__item",
+			"small-4\"",
+			"small-4",
+			"div",
+			"dt",
+			"dd",
+			"price",
+			"row",
+			"carrying",
+			"pagination",
+			"navigation",
+			"anchor",
+			"link",
+			"a:hover",
+			"h1",
+			"h6",
+			"h5",
+			"4",
+			"h3",
+			"car-block",
+			"65%",
+			"\"\";\n",
+			"65%",
+			"11deg",
+			"77%",
+			"45deg",
+			"blue",
+			"background: ",
+			"font-weight-normal",
+			"button",
+			"radius",
+			"png",
+			"breadcrumbs",
+			"body",
+			"src=\"/",
+			"{{site.baseurl}}/",
+			"content=\"/",
+			"href=\"/",
+			"href=\"",
+			"row",
+			"large",
+			"global",
+			"global-radius",
+			"border-radius",
+			"#fff",
+			"a:hover",
+			"a",
+			"a:hover",
+			"а:hover",
+			"&:hover",
+			"a:hover",
+			"anchor",
+			"a:hover",
+			"а",
+			"\"a\"",
+			"primary-color",
+			"008cba",
+			"type",
+			"body-bg",
+			"body-b",
+			"body",
+			"foundation",
+			"Foundation",
+			"foundation",
+			"visibility",
+			"main_page_coollection2",
+			"main_page_coollection3",
+			"main_page_coollection1",
+			"slidel3",
+			"post_small",
+			"small-right",
+			"icon",
+			"\"a\"",
+			"post",
+			"444",
+			"clearfix",
+			"esi",
+			"menu-icon",
+			"$content-width",
+			"#carousel",
+			"\"#carousel\"",
+			"carousel",
+			"theimage",
+			"');",
+			".carousel-content__item_buyzone_buy.carousel-content__item_buyzone_action:disabled:before",
+			"article",
+			"fancy",
+			"products.list2",
+			".products.list2",
+			"paginate",
+			"filter-item",
+			"filter-item__label",
+			"cat_page_item_label3",
+			"cat_page_item_label1",
+			"include",
+			".carousel-content",
+			".carousel-content__",
+			".carousel-content__item_title",
+			".products__item",
+			".products__item .carousel-content__item_prices",
+			".products.list2 .products__item .carousel-content__item_prices",
+			"&:last-child",
+			"price",
+			"ui",
+			"d74041",
+			"  $('.ui-slider-handle:last-child').append('<span class=\"handler-price\" id=\"handPriceMax\"></span>');\n        $('.ui-slider-handle:nth-child(2)').append('<span class=\"handler-price\" id=\"handPriceMin\"></span>');",
+			"body_padding",
+			".ui-widget-header",
+			"=\"car-brand",
+			"filters-options_item",
+			"id=\"car-brand1",
+			"id=\"car-brand",
+			" id=\"car-brand1\"",
+			"filters-options filters-options_checkbox",
+			" filters-options__item",
+			"filters-options__label_iconed",
+			"_iconed\">",
+			"_iconed",
+			"610px",
+			"#;;"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			";\n",
+			"div",
+			"dive",
+			"div",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Jekyll/Syntaxes/Markdown (Jekyll).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 146.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 88.0
+	},
+	"project": "compass_jekyll.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"icon",
+				"_includes\\icons.svg"
+			],
+			[
+				"ico",
+				"_includes\\icons.svg"
+			],
+			[
+				"sett",
+				"sass\\_settings.scss"
+			],
+			[
+				"sele",
+				"css\\selectik.css"
+			],
+			[
+				"app",
+				"js\\app.js"
+			],
+			[
+				"skil",
+				"_includes\\skills.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"ser",
+				"services.html"
+			],
+			[
+				"auto",
+				"autopark.html"
+			],
+			[
+				"price",
+				"prices.html"
+			],
+			[
+				"news",
+				"news.html"
+			],
+			[
+				"style",
+				"css\\style.css"
+			],
+			[
+				"aut",
+				"autopark.html"
+			],
+			[
+				"con",
+				"_config.yml"
+			],
+			[
+				"sty",
+				"sass\\style.scss"
+			],
+			[
+				"_type",
+				"sass\\components\\_type.scss"
+			],
+			[
+				"main",
+				"website\\_site\\css\\main.css"
+			],
+			[
+				"base",
+				"website\\_sass\\_base.scss"
+			],
+			[
+				"cong",
+				"website\\_config.yml"
+			],
+			[
+				"mi",
+				"website\\css\\main.scss"
+			],
+			[
+				"fun",
+				"media\\functions.js"
+			],
+			[
+				"la",
+				"templates\\layouts.layout.liquid"
+			],
+			[
+				"func",
+				"media\\functions.js"
+			],
+			[
+				"lay",
+				"templates\\layouts.layout.liquid"
+			],
+			[
+				"bre",
+				"snippets\\breadcrumbs.liquid"
+			],
+			[
+				"functio",
+				"media\\functions.js"
+			],
+			[
+				"produ",
+				"templates\\product.liquid"
+			],
+			[
+				"scree",
+				"media\\screen.css"
+			],
+			[
+				"colle",
+				"templates\\collection.liquid"
+			],
+			[
+				"css",
+				"css\\filters.css"
+			],
+			[
+				"coll",
+				"shop\\templates\\collection.liquid"
+			],
+			[
+				"prod",
+				"shop\\templates\\product.liquid"
+			],
+			[
+				"minx",
+				"sass\\_mixins.scss"
+			],
+			[
+				"comm",
+				"sass\\_common.scss"
+			],
+			[
+				"scre",
+				"sass\\screen.scss"
+			],
+			[
+				"cm",
+				"snippets\\cm-colors-script.liquid"
+			],
+			[
+				"sar",
+				"media\\sarhov.css"
+			],
+			[
+				"th",
+				"media\\theme.css"
+			],
+			[
+				"se",
+				"config\\settings.html"
+			],
+			[
+				"coun",
+				"counter.js"
+			],
+			[
+				"cart",
+				"templates\\cart.liquid"
+			],
+			[
+				"sa",
+				"sass\\sarhov.scss"
+			],
+			[
+				"ssar",
+				".sass-cache\\fb570e73ad225a9557492bc57c12340422063c45\\sarhov.scssc"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"layou",
+				"templates\\layouts.layout.liquid"
+			],
+			[
+				"top",
+				"shop\\snippets\\top-header.liquid"
+			],
+			[
+				"index",
+				"shop\\templates\\index.liquid"
+			],
+			[
+				"scss",
+				"sass\\screen.scss"
+			],
+			[
+				"size",
+				"shop\\snippets\\size-table.liquid"
+			],
+			[
+				"fast",
+				"shop\\snippets\\fast-order.liquid"
+			],
+			[
+				"co",
+				"shop\\templates\\collection.liquid"
+			],
+			[
+				"sear",
+				"shop\\templates\\search.liquid"
+			],
+			[
+				"404",
+				"shop\\templates\\page_404.liquid"
+			],
+			[
+				"blog-item",
+				"shop\\snippets\\blog-item.liquid"
+			],
+			[
+				"artic",
+				"shop\\templates\\article.liquid"
+			],
+			[
+				"pagin",
+				"shop\\snippets\\pagination.liquid"
+			],
+			[
+				"blog-i",
+				"shop\\snippets\\blog-item.liquid"
+			],
+			[
+				"blog",
+				"shop\\templates\\blog.liquid"
+			],
+			[
+				"page",
+				"shop\\templates\\page.liquid"
+			],
+			[
+				"blog-it",
+				"shop\\snippets\\blog-item.html"
+			],
+			[
+				"si",
+				"shop\\snippets\\size-table.html"
+			],
+			[
+				"siz",
+				"shop\\snippets\\size-table.html"
+			],
+			[
+				"set",
+				"shop\\config\\settings.html"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"log",
+				"shop\\log\\insup.log"
+			],
+			[
+				"mixin",
+				"sass\\_mixins.scss"
+			],
+			[
+				"produc",
+				"shop\\templates\\product.liquid"
+			],
+			[
+				"revi",
+				"shop\\snippets\\reviews.liquid"
+			],
+			[
+				"tabs",
+				"shop\\snippets\\tabs.liquid"
+			],
+			[
+				"fu",
+				"shop\\media\\functions.js"
+			],
+			[
+				"item",
+				"shop\\snippets\\item.liquid"
+			],
+			[
+				"settin",
+				"shop\\config\\settings.html"
+			],
+			[
+				"review",
+				"shop\\snippets\\reviews.liquid"
+			],
+			[
+				"pro",
+				"shop\\templates\\product.liquid"
+			],
+			[
+				"mixn",
+				"sass\\_mixins.scss"
+			],
+			[
+				"ins",
+				"shop\\log\\insup.log"
+			],
+			[
+				"cloud",
+				"shop\\media\\cloudzoom.css"
+			],
+			[
+				"side",
+				"shop\\snippets\\sidebar.liquid"
+			],
+			[
+				"ie",
+				"shop\\snippets\\item.liquid"
+			],
+			[
+				"top-he",
+				"shop\\snippets\\top-header.liquid"
+			],
+			[
+				"function",
+				"shop\\media\\functions.js"
+			],
+			[
+				"col",
+				"shop\\templates\\collection.liquid"
+			],
+			[
+				"scr",
+				"sass\\screen.scss"
+			],
+			[
+				"com",
+				"shop\\media\\common.js"
+			],
+			[
+				"mxin",
+				"sass\\_mixins.scss"
+			],
+			[
+				"cus",
+				"sass\\custom_checkout.scss"
+			],
+			[
+				"mixi",
+				"sass\\_mixins.scss"
+			],
+			[
+				"functi",
+				"shop\\media\\functions.js"
+			],
+			[
+				"lat",
+				"shop\\templates\\layouts.layout.liquid"
+			],
+			[
+				"slide",
+				"sass\\_slider.scss"
+			],
+			[
+				"funt",
+				"shop\\media\\functions.js"
+			],
+			[
+				"mix",
+				"sass\\_mixins.scss"
+			],
+			[
+				"car",
+				"shop\\snippets\\carousel.liquid"
+			],
+			[
+				"screen",
+				"shop\\media\\screen.css"
+			],
+			[
+				"prd",
+				"product.html"
+			],
+			[
+				"funtion",
+				"js\\functions.js"
+			],
+			[
+				"def",
+				"_layouts\\default.html"
+			],
+			[
+				"ine",
+				"index.html"
+			],
+			[
+				"fn",
+				"js\\functions.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"ave",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\booster-in_avenue\\bin_avenue.sublime-project"
+			],
+			[
+				"np",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\np_groups\\np_groups.sublime-project"
+			],
+			[
+				"ev",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\shopify.center\\themes\\eva-theme\\eva-theme.sublime-project"
+			],
+			[
+				"eva",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\shopify.center\\themes\\eva-theme\\eva-theme.sublime-project"
+			],
+			[
+				"des",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\designwall.sublime-project"
+			],
+			[
+				"hello",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\hellolenin.com\\hellolenin.sublime-project"
+			],
+			[
+				"desi",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\designwall\\designwall.sublime-project"
+			],
+			[
+				"boost",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\booster-in_avenue\\bin_avenue.sublime-project"
+			],
+			[
+				"sahorv",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\sarhov.com\\sarhov.sublime-project"
+			],
+			[
+				"hell",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\hellolenin.com\\hellolenin.sublime-project"
+			],
+			[
+				"vn",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\VN_Saite\\vn_saite.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\np_groups\\np_groups.sublime-project"
+			],
+			[
+				"after",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\after_rbz_dev\\after_rbz_dev.sublime-project"
+			],
+			[
+				"elite",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\Elite\\elite.sublime-project"
+			],
+			[
+				"aft",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\after_rbz_dev\\after_rbz_dev.sublime-project"
+			],
+			[
+				"sarho",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\sarhov.com\\sarhov.sublime-project"
+			],
+			[
+				"vi",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\youtubevideo\\youtube_video.sublime-project"
+			],
+			[
+				"afte",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\after_rbz_dev\\after_rbz_dev.sublime-project"
+			],
+			[
+				"pre",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\premium_tehnika\\premium_tehnika.sublime-project"
+			],
+			[
+				"saho",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\sarhov.com\\sarhov.sublime-project"
+			],
+			[
+				"wagn",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\wagner\\wagner.sublime-project"
+			],
+			[
+				"wag",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\wagner\\wagner.sublime-project"
+			],
+			[
+				"premi",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\premium_tehnika\\premium_tehnika.sublime-project"
+			],
+			[
+				"yas",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\yasmin\\yasmin.sublime-project"
+			],
+			[
+				"yasmin",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\yasmin\\yasmin.sublime-project"
+			],
+			[
+				"asmin",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\yasmin\\yasmin.sublime-project"
+			],
+			[
+				"sahrov",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\sarhov.com\\sarhov.sublime-project"
+			],
+			[
+				"punch",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\new-puncher\\new-puncher.sublime-project"
+			],
+			[
+				"sarhov",
+				"C:\\Users\\sarhov\\Dropbox\\My_projects\\sarhov.com\\sarhov.sublime-project"
+			],
+			[
+				"mos",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\mosbiz\\mosbizmeb-40.sublime-project"
+			],
+			[
+				"punc",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\puncherstore\\puncherstore.sublime-project"
+			],
+			[
+				"wan",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\wagner\\wagner.sublime-project"
+			],
+			[
+				"dev",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\rbz_dev\\rbz_dev.sublime-project"
+			],
+			[
+				"de",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\rbz_dev\\rbz_dev.sublime-project"
+			],
+			[
+				"ins",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\ins__vass\\ins_vaas.sublime-project"
+			],
+			[
+				"insa",
+				"C:\\Users\\sarhov\\Dropbox\\Projects\\ins__vass\\ins_vaas.sublime-project"
+			],
+			[
+				"ra",
+				"C:\\Users\\sarhov\\Saved Games\\ray.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 287.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
