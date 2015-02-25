@@ -5,9 +5,10 @@
 http_path = "/"
 css_dir = "css/"
 sass_dir = "sass"
-#images_dir = "media/"
+images_dir = "images/"
 #javascripts_dir = "media/"
-# output_style =  :compressed
+output_style =  :compressed
+http_generated_images_path = "../images"
 
 # You can select your preferred output style here (can be overridden via the command line):
 # output_style = :expanded or :nested or :compact or :compressed
@@ -16,7 +17,7 @@ sass_dir = "sass"
 # relative_assets = true
 
 # To disable debugging comments that display the original location of your selectors. Uncomment:
-# line_comments = false
+line_comments = false
 
 
 # If you prefer the indented syntax, you might want to regenerate this
